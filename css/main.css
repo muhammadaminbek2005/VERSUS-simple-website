@@ -180,3 +180,13 @@ body {
     transition: all 0.5s ease;
     color: #00D6B4;
 }
+
+/* !loader style */
+#loader{
+    background-color: #222222;
+    background: url(../images/proloader.gif) no-repeat center center;
+    width: 100%;
+    height: 100%;
+    background-position: fixed;
+    background-size: 10%;
+}
